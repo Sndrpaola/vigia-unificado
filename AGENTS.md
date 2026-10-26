@@ -68,3 +68,8 @@ Tailwind 4 usa el binario standalone, sin Node.js. Si cambian estilos, clases o 
 Probar comportamiento y errores relevantes, permisos permitidos/denegados y regresiones de la base. UI interactiva requiere navegador; documentos PDF requieren inspección visual cuando existan y se modifiquen. No agregar tests triviales que solo repitan la implementación.
 
 Documentación: enlaces válidos, requisitos consistentes, estados honestos. Registrar comandos/resultados, lo no comprobado, tareas y siguiente paso en el estado. Responder en español con cambios, evidencia y pendientes. Una tarea terminada técnicamente no significa aceptación funcional del propietario.
+
+
+## Ubicaciones vigentes de esta copia — 011, 2026-10-22
+
+La separación autorizada mueve el código Django a web/: las rutas core/, UsuarioApp/, PlanesApp/, CuidadosApp/, theme/, templates/, static/ y utils/ citadas arriba se resuelven dentro de web/. manage.py raíz delega a web/manage.py y conserva los comandos desde raíz. requirements.txt raíz incluye web/requirements.txt. mobile/ y edge/ permanecen independientes. Datos/entornos/.env continúan en sus ubicaciones anteriores; no moverlos por inferencia. Ver docs/ORGANIZACION.md y la validación011 antes de retomar.

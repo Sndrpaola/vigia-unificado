@@ -1,0 +1,525 @@
+[25/Oct/2026 22:27:09] "GET /mobile/ HTTP/1.1" 200 1519
+[25/Oct/2026 22:27:09] "GET /mobile/flutter_bootstrap.js HTTP/1.1" 200 13094
+[25/Oct/2026 22:27:10] "GET /mobile/main.dart.js HTTP/1.1" 200 12443114
+[25/Oct/2026 22:27:10] "GET /mobile/assets/FontManifest.json HTTP/1.1" 200 208
+[25/Oct/2026 22:27:10] "GET /mobile/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf HTTP/1.1" 200 257628
+[25/Oct/2026 22:27:10] "GET /mobile/assets/fonts/MaterialIcons-Regular.otf HTTP/1.1" 200 1645184
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+[25/Oct/2026 22:27:10] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 22:27:18] "POST /_allauth/app/v1/auth/login HTTP/1.1" 200 345
+[25/Oct/2026 22:27:18] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:27:18] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:27:18] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:27:18] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:28:18] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:28:18] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:28:18] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:29:18] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:29:18] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:29:18] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:30:18] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:30:18] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:30:18] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:31:15] "GET /mobile/ HTTP/1.1" 200 1519
+[25/Oct/2026 22:31:15] "GET /mobile/flutter_bootstrap.js HTTP/1.1" 200 13094
+[25/Oct/2026 22:31:15] "GET /mobile/favicon.png HTTP/1.1" 200 917
+[25/Oct/2026 22:31:15] "GET /mobile/main.dart.js HTTP/1.1" 200 12444710
+[25/Oct/2026 22:31:15] "GET /mobile/assets/FontManifest.json HTTP/1.1" 200 208
+[25/Oct/2026 22:31:16] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:31:16] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:31:16] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:31:16] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:31:35] "GET /planes/ HTTP/1.1" 200 4756
+[25/Oct/2026 22:31:35] "GET /static/css/tokens.css?v=011 HTTP/1.1" 304 0
+[25/Oct/2026 22:31:35] "GET /static/css/styles.css?v=011 HTTP/1.1" 304 0
+[25/Oct/2026 22:31:35] "GET /static/css/dist/styles.css?v=1792978295 HTTP/1.1" 200 14109
+[25/Oct/2026 22:31:35] "GET /static/css/mensajes.css?v=011 HTTP/1.1" 304 0
+[25/Oct/2026 22:31:35] "GET /static/css/spiner.css?v=011 HTTP/1.1" 304 0
+[25/Oct/2026 22:31:35] "GET /static/PlanesApp/planes.css?v=009 HTTP/1.1" 200 7182
+[25/Oct/2026 22:31:35] "GET /static/js/interfaz.js?v=011 HTTP/1.1" 304 0
+[25/Oct/2026 22:31:35] "GET /static/img/vigia.svg HTTP/1.1" 304 0
+[25/Oct/2026 22:31:35] "GET /static/js/mensajes.js?v=011 HTTP/1.1" 304 0
+[25/Oct/2026 22:32:16] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:32:16] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:32:16] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:32:41] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:32:41] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:32:41] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:34:29] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:34:29] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:34:29] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:34:39] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:34:39] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:34:39] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:34:46] "GET /api/v1/patients/3/daily/medications HTTP/1.1" 200 215
+[25/Oct/2026 22:34:46] "GET /api/v1/patients/3/daily/tasks HTTP/1.1" 200 194
+[25/Oct/2026 22:34:46] "GET /api/v1/guides HTTP/1.1" 200 3000
+[25/Oct/2026 22:34:46] "GET /api/v1/patients/3/nodes HTTP/1.1" 200 13
+[25/Oct/2026 22:34:46] "GET /api/v1/patients/3 HTTP/1.1" 200 1239
+[25/Oct/2026 22:34:46] "GET /api/v1/patients/3/history HTTP/1.1" 200 1392
+[25/Oct/2026 22:34:46] "GET /api/v1/patients/3/observations HTTP/1.1" 200 49
+[25/Oct/2026 22:34:46] "GET /api/v1/capabilities HTTP/1.1" 200 1590
+[25/Oct/2026 22:37:18] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:37:18] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:37:18] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:37:36] "GET /mobile/ HTTP/1.1" 200 1519
+[25/Oct/2026 22:37:36] "GET /mobile/manifest.json HTTP/1.1" 200 920
+[25/Oct/2026 22:37:36] "GET /mobile/flutter_bootstrap.js HTTP/1.1" 200 13094
+[25/Oct/2026 22:37:36] "GET /mobile/main.dart.js HTTP/1.1" 200 12444710
+[25/Oct/2026 22:37:36] "GET /mobile/assets/FontManifest.json HTTP/1.1" 200 208
+[25/Oct/2026 22:37:36] "GET /mobile/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf HTTP/1.1" 200 257628
+[25/Oct/2026 22:37:36] "GET /mobile/assets/fonts/MaterialIcons-Regular.otf HTTP/1.1" 200 1645184
+[25/Oct/2026 22:37:37] "GET /mobile/ HTTP/1.1" 200 1519
+[25/Oct/2026 22:37:37] "GET /mobile/flutter_bootstrap.js HTTP/1.1" 200 13094
+[25/Oct/2026 22:37:37] "GET /mobile/favicon.png HTTP/1.1" 200 917
+[25/Oct/2026 22:37:37] "GET /mobile/icons/Icon-192.png HTTP/1.1" 200 5292
+[25/Oct/2026 22:37:37] "GET /mobile/manifest.json HTTP/1.1" 200 920
+[25/Oct/2026 22:37:38] "GET /mobile/main.dart.js HTTP/1.1" 200 12444710
+[25/Oct/2026 22:37:38] "GET /mobile/assets/FontManifest.json HTTP/1.1" 200 208
+[25/Oct/2026 22:37:38] "GET /mobile/favicon.png HTTP/1.1" 200 917
+[25/Oct/2026 22:37:38] "GET /mobile/icons/Icon-192.png HTTP/1.1" 200 5292
+[25/Oct/2026 22:37:38] "GET /mobile/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf HTTP/1.1" 200 257628
+[25/Oct/2026 22:37:38] "GET /mobile/assets/fonts/MaterialIcons-Regular.otf HTTP/1.1" 200 1645184
+[25/Oct/2026 22:38:28] "POST /_allauth/app/v1/auth/login HTTP/1.1" 200 345
+[25/Oct/2026 22:38:28] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:38:28] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:38:28] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:38:28] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:38:34] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:38:34] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:38:34] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:46:40] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:46:40] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:46:40] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:47:36] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:47:36] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:47:36] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:48:43] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:48:43] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:48:43] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:48:52] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:48:52] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:48:52] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:49:04] "GET /planes/ HTTP/1.1" 200 4756
+[25/Oct/2026 22:49:04] "GET /static/css/tokens.css?v=011 HTTP/1.1" 200 2057
+[25/Oct/2026 22:49:04] "GET /static/css/mensajes.css?v=011 HTTP/1.1" 200 1299
+[25/Oct/2026 22:49:04] "GET /static/PlanesApp/planes.css?v=009 HTTP/1.1" 200 7182
+[25/Oct/2026 22:49:04] "GET /static/css/dist/styles.css?v=1792979344 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:04] "GET /static/css/spiner.css?v=011 HTTP/1.1" 200 661
+[25/Oct/2026 22:49:04] "GET /static/css/styles.css?v=011 HTTP/1.1" 200 22548
+[25/Oct/2026 22:49:04] "GET /static/js/mensajes.js?v=011 HTTP/1.1" 200 2291
+[25/Oct/2026 22:49:04] "GET /static/js/interfaz.js?v=011 HTTP/1.1" 200 4317
+[25/Oct/2026 22:49:04] "GET /static/img/vigia.svg HTTP/1.1" 200 320
+[25/Oct/2026 22:49:07] "GET /accounts/login/ HTTP/1.1" 200 4093
+[25/Oct/2026 22:49:07] "GET /static/css/dist/styles.css?v=1792979347 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:11] "POST /accounts/login/ HTTP/1.1" 200 4322
+[25/Oct/2026 22:49:11] "GET /static/css/dist/styles.css?v=1792979351 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:32] "POST /accounts/login/ HTTP/1.1" 302 0
+[25/Oct/2026 22:49:32] "GET / HTTP/1.1" 302 0
+[25/Oct/2026 22:49:32] "GET /cuidados/ HTTP/1.1" 200 24942
+[25/Oct/2026 22:49:32] "GET /static/img/profile.webp HTTP/1.1" 200 7974
+[25/Oct/2026 22:49:32] "GET /static/css/dist/styles.css?v=1792979372 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:32] "GET /static/CuidadosApp/care.css?v=011 HTTP/1.1" 200 8458
+[25/Oct/2026 22:49:33] "GET /static/CuidadosApp/care.js?v=011 HTTP/1.1" 200 3925
+[25/Oct/2026 22:49:33] "GET /cuidados/avisos/ HTTP/1.1" 200 1448
+[25/Oct/2026 22:49:33] "GET /static/CuidadosApp/guides/supina-v2.png?v=20261006 HTTP/1.1" 200 1739392
+[25/Oct/2026 22:49:33] "POST /cuidados/avisos/acuse/ HTTP/1.1" 200 17
+[25/Oct/2026 22:49:33] "POST /cuidados/avisos/acuse/ HTTP/1.1" 200 17
+[25/Oct/2026 22:49:33] "POST /cuidados/avisos/acuse/ HTTP/1.1" 200 17
+[25/Oct/2026 22:49:33] "POST /cuidados/avisos/acuse/ HTTP/1.1" 200 17
+[25/Oct/2026 22:49:35] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:49:44] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:49:44] "GET /cuidados/pacientes/ HTTP/1.1" 200 18205
+[25/Oct/2026 22:49:44] "GET /static/css/dist/styles.css?v=1792979384 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:45] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:49:47] "GET /cuidados/guias/ HTTP/1.1" 200 21659
+[25/Oct/2026 22:49:47] "GET /static/css/dist/styles.css?v=1792979387 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:47] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:49:47] "GET /static/CuidadosApp/guides/lateral-izquierda-v2.png?v=20261006 HTTP/1.1" 200 1702896
+[25/Oct/2026 22:49:47] "GET /static/CuidadosApp/guides/lateral-derecha-v2.png?v=20261006 HTTP/1.1" 200 1732774
+[25/Oct/2026 22:49:47] "GET /static/CuidadosApp/guides/comodidad-v2.png?v=20261006 HTTP/1.1" 200 1736126
+[25/Oct/2026 22:49:48] "GET /cuidados/agenda/ HTTP/1.1" 200 21906
+[25/Oct/2026 22:49:48] "GET /static/css/dist/styles.css?v=1792979388 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:48] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:49:49] "GET /planes/mi-suscripcion/ HTTP/1.1" 200 20376
+[25/Oct/2026 22:49:49] "GET /static/css/dist/styles.css?v=1792979389 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:49] "GET /static/PlanesApp/planes.css?v=011 HTTP/1.1" 200 7182
+[25/Oct/2026 22:49:49] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:49:52] "GET /planes/ HTTP/1.1" 200 20269
+[25/Oct/2026 22:49:52] "GET /static/css/dist/styles.css?v=1792979392 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:52] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:49:53] "GET /planes/metodos/ HTTP/1.1" 200 20723
+[25/Oct/2026 22:49:53] "GET /static/css/dist/styles.css?v=1792979393 HTTP/1.1" 200 14109
+[25/Oct/2026 22:49:53] "GET /static/PlanesApp/card.js?v=007 HTTP/1.1" 200 1128
+[25/Oct/2026 22:49:53] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:50:12] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:50:23] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:50:33] "GET /planes/historial/ HTTP/1.1" 200 17889
+[25/Oct/2026 22:50:33] "GET /static/css/dist/styles.css?v=1792979433 HTTP/1.1" 200 14109
+[25/Oct/2026 22:50:33] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:50:35] "GET /perfil/ HTTP/1.1" 200 20132
+[25/Oct/2026 22:50:35] "GET /static/css/dist/styles.css?v=1792979435 HTTP/1.1" 200 14109
+[25/Oct/2026 22:50:35] "GET /static/js/script.js?v=002 HTTP/1.1" 200 417
+[25/Oct/2026 22:50:35] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:50:35] "GET /accounts/email/ HTTP/1.1" 200 5422
+[25/Oct/2026 22:50:35] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:50:37] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:50:38] "GET /cuidados/ HTTP/1.1" 200 24657
+[25/Oct/2026 22:50:38] "GET /static/css/dist/styles.css?v=1792979438 HTTP/1.1" 200 14109
+[25/Oct/2026 22:50:39] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:50:42] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:50:42] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:50:42] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:50:44] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:50:44] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:50:44] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:50:49] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:50:49] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:50:49] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:51:25] "GET /cuidados/avisos/ HTTP/1.1" 200 1444
+[25/Oct/2026 22:51:26] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:51:26] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:51:26] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:51:28] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:51:28] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:51:28] "GET /api/v1/agenda HTTP/1.1" 200 2623
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[25/Oct/2026 22:51:38] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 6274
+Not Found: /mobile/flutter.js.map
+Not Found: /mobile/flutter.js.map
+[25/Oct/2026 22:51:39] "GET /mobile/flutter.js.map HTTP/1.1" 404 3007
+[25/Oct/2026 22:52:22] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:52:22] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:52:22] "GET /api/v1/agenda HTTP/1.1" 200 2623
+[25/Oct/2026 22:52:26] "POST /api/v1/patients/3/events HTTP/1.1" 200 466
+[25/Oct/2026 22:52:26] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:52:26] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:52:26] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:52:28] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:52:28] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:52:28] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:52:30] "GET /api/v1/guides HTTP/1.1" 200 3000
+[25/Oct/2026 22:52:30] "GET /api/v1/patients/3/nodes HTTP/1.1" 200 13
+[25/Oct/2026 22:52:30] "GET /api/v1/patients/3/daily/medications HTTP/1.1" 200 215
+[25/Oct/2026 22:52:30] "GET /api/v1/patients/3/daily/tasks HTTP/1.1" 200 194
+[25/Oct/2026 22:52:30] "GET /api/v1/patients/3 HTTP/1.1" 200 1239
+[25/Oct/2026 22:52:30] "GET /api/v1/patients/3/history HTTP/1.1" 200 1860
+[25/Oct/2026 22:52:30] "GET /api/v1/patients/3/observations HTTP/1.1" 200 49
+[25/Oct/2026 22:52:30] "GET /api/v1/capabilities HTTP/1.1" 200 1590
+[25/Oct/2026 22:52:35] "GET /mobile/assets/AssetManifest.bin.json HTTP/1.1" 200 934
+[25/Oct/2026 22:52:36] "GET /mobile/assets/assets/guides/lateral-izquierda-v2.png HTTP/1.1" 200 1702896
+[25/Oct/2026 22:52:36] "GET /mobile/assets/assets/guides/supina-v2.png HTTP/1.1" 200 1739392
+[25/Oct/2026 22:52:36] "GET /mobile/assets/assets/guides/lateral-derecha-v2.png HTTP/1.1" 200 1732774
+[25/Oct/2026 22:52:37] "GET /mobile/assets/assets/guides/comodidad-v2.png HTTP/1.1" 200 1736126
+[25/Oct/2026 22:53:20] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:53:20] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:53:20] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:53:26] "GET /api/v1/patients/3/daily/tasks HTTP/1.1" 200 194
+[25/Oct/2026 22:53:26] "GET /api/v1/patients/3/nodes HTTP/1.1" 200 13
+[25/Oct/2026 22:53:26] "GET /api/v1/guides HTTP/1.1" 200 3000
+[25/Oct/2026 22:53:26] "GET /api/v1/patients/3/daily/medications HTTP/1.1" 200 215
+[25/Oct/2026 22:53:26] "GET /api/v1/patients/3 HTTP/1.1" 200 1239
+[25/Oct/2026 22:53:26] "GET /api/v1/patients/3/history HTTP/1.1" 200 1860
+[25/Oct/2026 22:53:26] "GET /api/v1/capabilities HTTP/1.1" 200 1590
+[25/Oct/2026 22:53:26] "GET /api/v1/patients/3/observations HTTP/1.1" 200 49
+[25/Oct/2026 22:53:27] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:53:27] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:53:27] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:53:28] "GET /api/v1/patients/3/daily/medications HTTP/1.1" 200 215
+[25/Oct/2026 22:53:28] "GET /api/v1/patients/3 HTTP/1.1" 200 1239
+[25/Oct/2026 22:53:28] "GET /api/v1/patients/3/daily/tasks HTTP/1.1" 200 194
+[25/Oct/2026 22:53:28] "GET /api/v1/guides HTTP/1.1" 200 3000
+[25/Oct/2026 22:53:28] "GET /api/v1/patients/3/nodes HTTP/1.1" 200 13
+[25/Oct/2026 22:53:28] "GET /api/v1/patients/3/history HTTP/1.1" 200 1860
+[25/Oct/2026 22:53:28] "GET /api/v1/patients/3/observations HTTP/1.1" 200 49
+[25/Oct/2026 22:53:28] "GET /api/v1/capabilities HTTP/1.1" 200 1590
+[25/Oct/2026 22:53:28] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:53:28] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:53:28] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:53:29] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:53:29] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:53:29] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:53:59] "GET /planes/ HTTP/1.1" 200 20269
+[25/Oct/2026 22:53:59] "GET /static/css/dist/styles.css?v=1792979639 HTTP/1.1" 200 14109
+[25/Oct/2026 22:53:59] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:54:29] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:54:59] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:55:29] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:55:53] "GET /cuidados/ HTTP/1.1" 200 23900
+[25/Oct/2026 22:55:53] "GET /static/css/dist/styles.css?v=1792979753 HTTP/1.1" 200 14109
+[25/Oct/2026 22:55:53] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:08] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:09] "GET /cuidados/pacientes/ HTTP/1.1" 200 18205
+[25/Oct/2026 22:56:09] "GET /static/css/dist/styles.css?v=1792979769 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:09] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:10] "GET /cuidados/agenda/ HTTP/1.1" 200 21149
+[25/Oct/2026 22:56:10] "GET /static/css/dist/styles.css?v=1792979770 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:10] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:12] "GET /cuidados/guias/ HTTP/1.1" 200 21659
+[25/Oct/2026 22:56:12] "GET /static/css/dist/styles.css?v=1792979772 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:12] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:16] "GET /planes/mi-suscripcion/ HTTP/1.1" 200 20376
+[25/Oct/2026 22:56:16] "GET /static/css/dist/styles.css?v=1792979776 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:16] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:20] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:20] "GET /planes/metodos/ HTTP/1.1" 200 20723
+[25/Oct/2026 22:56:20] "GET /static/css/dist/styles.css?v=1792979780 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:20] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:24] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:46] "GET /planes/historial/ HTTP/1.1" 200 17889
+[25/Oct/2026 22:56:46] "GET /static/css/dist/styles.css?v=1792979806 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:46] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:51] "GET /planes/ HTTP/1.1" 200 20269
+[25/Oct/2026 22:56:51] "GET /static/css/dist/styles.css?v=1792979811 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:51] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:53] "GET /planes/historial/ HTTP/1.1" 200 17889
+[25/Oct/2026 22:56:53] "GET /static/css/dist/styles.css?v=1792979813 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:53] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:54] "GET /perfil/ HTTP/1.1" 200 20132
+[25/Oct/2026 22:56:54] "GET /static/css/dist/styles.css?v=1792979814 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:54] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:56:59] "GET /accounts/email/ HTTP/1.1" 200 5422
+[25/Oct/2026 22:56:59] "GET /static/css/dist/styles.css?v=1792979819 HTTP/1.1" 200 14109
+[25/Oct/2026 22:56:59] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:07] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:07] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:24] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:27] "GET /accounts/email/ HTTP/1.1" 200 5422
+[25/Oct/2026 22:57:27] "GET /static/css/dist/styles.css?v=1792979847 HTTP/1.1" 200 14109
+[25/Oct/2026 22:57:27] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:29] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:30] "GET /accounts/email/ HTTP/1.1" 200 5422
+[25/Oct/2026 22:57:30] "GET /static/css/dist/styles.css?v=1792979850 HTTP/1.1" 200 14109
+[25/Oct/2026 22:57:30] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:32] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:33] "GET /accounts/3rdparty/ HTTP/1.1" 200 17590
+[25/Oct/2026 22:57:33] "GET /static/css/dist/styles.css?v=1792979853 HTTP/1.1" 200 14109
+[25/Oct/2026 22:57:33] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:39] "GET /accounts/2fa/ HTTP/1.1" 200 17959
+[25/Oct/2026 22:57:39] "GET /static/css/dist/styles.css?v=1792979859 HTTP/1.1" 200 14109
+[25/Oct/2026 22:57:39] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:45] "GET /accounts/password/change/ HTTP/1.1" 200 19832
+[25/Oct/2026 22:57:45] "GET /static/css/dist/styles.css?v=1792979865 HTTP/1.1" 200 14109
+[25/Oct/2026 22:57:45] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:57:49] "POST /accounts/logout/ HTTP/1.1" 302 0
+[25/Oct/2026 22:57:49] "GET /accounts/login/ HTTP/1.1" 200 4346
+[25/Oct/2026 22:57:49] "GET /static/css/dist/styles.css?v=1792979869 HTTP/1.1" 200 14109
+[25/Oct/2026 22:57:57] "GET /planes/ HTTP/1.1" 200 4756
+[25/Oct/2026 22:57:57] "GET /static/css/dist/styles.css?v=1792979877 HTTP/1.1" 200 14109
+[25/Oct/2026 22:58:02] "GET /accounts/login/ HTTP/1.1" 200 4093
+[25/Oct/2026 22:58:02] "GET /static/css/dist/styles.css?v=1792979882 HTTP/1.1" 200 14109
+[25/Oct/2026 22:58:06] "GET /accounts/password/reset/ HTTP/1.1" 200 2871
+[25/Oct/2026 22:58:06] "GET /static/css/dist/styles.css?v=1792979886 HTTP/1.1" 200 14109
+[25/Oct/2026 22:58:11] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:58:11] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:58:11] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:58:14] "POST /accounts/login/ HTTP/1.1" 302 0
+[25/Oct/2026 22:58:14] "GET / HTTP/1.1" 302 0
+[25/Oct/2026 22:58:14] "GET /cuidados/ HTTP/1.1" 200 24185
+[25/Oct/2026 22:58:14] "GET /static/css/dist/styles.css?v=1792979894 HTTP/1.1" 200 14109
+[25/Oct/2026 22:58:14] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:58:28] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:58:28] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:58:28] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:58:28] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:58:32] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:58:32] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:58:32] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:58:36] "GET /api/v1/patients/3/daily/tasks HTTP/1.1" 200 194
+[25/Oct/2026 22:58:36] "GET /api/v1/guides HTTP/1.1" 200 3000
+[25/Oct/2026 22:58:36] "GET /api/v1/patients/3/daily/medications HTTP/1.1" 200 215
+[25/Oct/2026 22:58:36] "GET /api/v1/patients/3 HTTP/1.1" 200 1239
+[25/Oct/2026 22:58:36] "GET /api/v1/patients/3/nodes HTTP/1.1" 200 13
+[25/Oct/2026 22:58:36] "GET /api/v1/patients/3/history HTTP/1.1" 200 1860
+[25/Oct/2026 22:58:36] "GET /api/v1/patients/3/observations HTTP/1.1" 200 49
+[25/Oct/2026 22:58:36] "GET /api/v1/capabilities HTTP/1.1" 200 1590
+[25/Oct/2026 22:58:38] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:58:38] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:58:38] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:59:19] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 22:59:19] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 22:59:19] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 22:59:19] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:59:45] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:59:48] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:59:48] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 22:59:50] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 23:00:09] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 23:00:27] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 23:00:28] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 23:00:34] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 23:01:08] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+[25/Oct/2026 23:01:09] "GET /cuidados/avisos/ HTTP/1.1" 200 1123
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/agenda
+[25/Oct/2026 23:01:14] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+[25/Oct/2026 23:01:14] "GET /api/v1/agenda HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:01:14] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:01:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:01:16] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:01:16] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:02:16] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 23:02:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:02:16] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/agenda
+[25/Oct/2026 23:03:16] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+[25/Oct/2026 23:03:16] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:03:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:04:16] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:04:16] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 23:04:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:05:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:05:16] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 23:05:16] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:06:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:06:16] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 23:06:16] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:06:33] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 23:06:33] "GET /api/v1/agenda HTTP/1.1" 200 2094
+[25/Oct/2026 23:06:33] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 23:06:45] "GET /api/v1/me HTTP/1.1" 200 1735
+[25/Oct/2026 23:06:45] "GET /api/v1/patients HTTP/1.1" 200 374
+[25/Oct/2026 23:06:45] "GET /api/v1/agenda HTTP/1.1" 200 2094
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:07:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:07:16] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:07:16] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:08:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:08:16] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:08:16] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:09:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:09:16] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:09:16] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:09:25] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:09:25] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:09:25] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:10:16] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 23:10:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:10:16] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:11:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:11:16] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 23:11:16] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:12:16] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:12:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:12:16] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:13:16] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 23:13:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:13:16] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:14:16] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:14:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:14:16] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:15:16] "GET /api/v1/agenda HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:15:16] "GET /api/v1/me HTTP/1.1" 401 60
+[25/Oct/2026 23:15:16] "GET /api/v1/patients HTTP/1.1" 401 60
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/agenda
+Unauthorized: /api/v1/me
+Unauthorized: /api/v1/me
+[25/Oct/2026 23:27:48] "GET /api/v1/agenda HTTP/1.1" 401 60
+[25/Oct/2026 23:27:48] "GET /api/v1/me HTTP/1.1" 401 60
+Unauthorized: /api/v1/patients
+Unauthorized: /api/v1/patients
+[25/Oct/2026 23:27:48] "GET /api/v1/patients HTTP/1.1" 401 60
+[25/Oct/2026 23:27:53] "GET /cuidados/ HTTP/1.1" 200 23900
+[25/Oct/2026 23:27:53] "GET /static/css/dist/styles.css?v=1792981673 HTTP/1.1" 200 14109
+[25/Oct/2026 23:27:53] "GET /cuidados/avisos/ HTTP/1.1" 200 1123

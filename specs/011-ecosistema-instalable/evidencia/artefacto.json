@@ -1,0 +1,9 @@
+{
+  "file": "mobile/build/app/outputs/flutter-apk/app-debug.apk",
+  "sha256": "380ea8fbaecd7623aad37c7116c64046941ebd848343293451d2a9dd4fb7961e",
+  "bytes": 142904125,
+  "platform": "Android ARM64",
+  "type": "debug",
+  "built": "2026-10-22",
+  "ios_installable": false
+}

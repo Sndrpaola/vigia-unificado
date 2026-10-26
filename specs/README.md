@@ -13,10 +13,12 @@ La base original no trae un módulo de negocio predefinido; esta copia añade Pl
 | 005 | Actualización segura de dependencias Python/JavaScript | [005-actualizacion-dependencias](./005-actualizacion-dependencias/spec.md) | Implementada/verificada: lock de 52 paquetes, SRI, migraciones ficticias; aceptación pendiente | Sí; correcciones autorizadas posteriormente el 2026-10-02 |
 | 006 | Permisos e integridad de Registro/Perfil | [006-integridad-registro](./006-integridad-registro/spec.md) | Implementada/verificada: cargos y atomicidad/fotos; aceptación pendiente | Sí; regla y alcance confirmados por instrucciones posteriores |
 | 007 | PlanesApp: registro público local/Google y suscripciones simuladas | [007-planes-app](./007-planes-app/spec.md) | Implementada; 117 tests OK, visual con límites, OAuth real/aceptación pendientes | **Sí; alcance completo autorizado posteriormente el 2026-10-06, sin migración real** |
-
 | 008 | Dashboard de suscripciones y navegación coherente | [008-dashboard-navegacion](./008-dashboard-navegacion/spec.md) | Implementada; 127 tests OK, navegador y aceptación con pendientes manuales | Sí; alcance completo autorizado posteriormente el 2026-10-06 |
+| 009 | CuidadosApp: pacientes, medicamentos y cuidados por cuidador | [009-cuidados-cuidadores](./009-cuidados-cuidadores/spec.md) | Implementada; 158 tests OK, navegador verificado con límites; revisión manual/aceptación pendientes | Sí; alcance completo autorizado posteriormente el 2026-10-06, sin migración real |
 
-Siguiente número sugerido: 009. Comprobar el siguiente libre en cada uso. Una app puede tener varias specs de evolución; una spec transversal puede afectar varias apps.
+| 010 | Aplicación móvil VIGIA: Flutter iOS/Android, funciones por plan y MediaPipe | [010-aplicacion-movil](./010-aplicacion-movil/spec.md) | Demo implementada; APK Android, integración de nodo y pruebas; pendientes nativos/externos en validation.md | Sí, instrucción posterior 2026-10-19 |
+
+Siguiente número sugerido: 011. Comprobar el siguiente libre en cada uso. Una app puede tener varias specs de evolución; una spec transversal puede afectar varias apps.
 
 Auditoría independiente y cierre de correcciones: [VALIDACION_PREPRODUCCION.md](../docs/VALIDACION_PREPRODUCCION.md), 2026-10-02. La auditoría inicial detectó bloqueadores; la implementación posterior autorizada de 005/006 los corrigió en el alcance verificado. Conserva pendientes operativos y de revisión manual; no equivale a aceptación ni autorización para producción.
 
@@ -46,3 +48,10 @@ Usar IDs estables por spec, por ejemplo RF-001-01 y T-001-01. Relacionarlos con 
 Un cambio pequeño conserva carpeta y RF, actualiza requisitos vigentes y añade una sección fechada de tareas. Una regla sustituida queda registrada en decisiones; no reciclar un ID para otro significado.
 
 Una spec nueva no autoriza automáticamente implementar ni despliega cambios de una spec anterior.
+
+## Evolución22/10/2026
+
+[011 — Ecosistema instalable, reloj y organización](011-ecosistema-instalable/spec.md): Implementación autorizada: reloj, diseño compartido y separación de código; [validación y pendientes](011-ecosistema-instalable/validation.md). Siguiente número libre sugerido012; verificar.
+
+
+Actualización25/10:010 conserva RF e incorpora tareas24–27 para fidelidad visual/catalogo web; código y preview verificados. Instaladores actuales pendientes. [Resultados](010-aplicacion-movil/validation.md).

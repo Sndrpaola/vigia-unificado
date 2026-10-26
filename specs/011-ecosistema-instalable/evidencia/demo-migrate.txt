@@ -1,0 +1,4 @@
+Operations to perform:
+  Apply all migrations: CuidadosApp, PlanesApp, UsuarioApp, account, admin, auth, contenttypes, mfa, sessions, socialaccount
+Running migrations:
+  Applying CuidadosApp.0006_mobiledevice_local_posture_reminders... OK
